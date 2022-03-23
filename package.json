@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ngokk.github.io/",
-  "name": "game",
+  "homepage": "https://ngokk.github.io/moordle",
+  "name": "moordle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
