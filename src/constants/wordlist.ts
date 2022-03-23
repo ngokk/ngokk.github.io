@@ -24,7 +24,7 @@ export const WORDS = [
   'union',
   'depth',
   'syrup',
-  'empty',
+  'grain',
   'stage',
   'prims',
   'print',
@@ -33,4 +33,5 @@ export const WORDS = [
   'share',
   'tuber',
   'cross',
+  'empty',
 ]
