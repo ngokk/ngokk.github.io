@@ -1,4 +1,6 @@
 export const WORDS = [
+  'queue',
+  'heaps',
   'treap',
   'trees',
   'paren',
@@ -9,9 +11,6 @@ export const WORDS = [
   'graph',
   'stars',
   'stseq',
-  'order',
-  'queue',
-  'heaps',
   'sparc',
   'brick',
   'darts',
@@ -34,4 +33,5 @@ export const WORDS = [
   'tuber',
   'cross',
   'empty',
+  'order',
 ]
