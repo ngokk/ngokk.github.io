@@ -21,11 +21,11 @@ export const WORDS = [
   'frogs',
   'astar',
   'youth',
-  'heule'
+  'heule',
   'share',
   'empty',
   'order',
-  'toseq'
+  'toseq',
   'treap',
   'trees',
   'paren',
